@@ -1,6 +1,6 @@
 // pages/products/index.tsx
-import { Navbar } from "../components/Navbar";
-import { ProductCard } from "../components/ProductCard";
+import { Navbar } from "../locale/context/components/Navbar";
+import { ProductCard } from "../locale/context/components/ProductCard";
 
 const products = [
   { id: 1, name: "Producto 1", price: "$20", imageUrl: "/product1.jpg" },

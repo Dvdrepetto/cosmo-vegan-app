@@ -1,6 +1,5 @@
 /* Importación de Tailwind CSS */
-@import "tailwindcss/preflight";
-@import "tailwindcss/utilities";
+@import "tailwindcss";
 
 /* Definición de variables CSS */
 :root {

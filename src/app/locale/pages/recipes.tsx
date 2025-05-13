@@ -1,6 +1,6 @@
 // pages/recipes/index.tsx
-import { Navbar } from "../components/Navbar";
-import { RecipeCard } from "../components/RecipeCard";
+import { Navbar } from "../locale/context/components/Navbar";
+import { RecipeCard } from "../locale/context/components/RecipeCard";
 
 const recipes = [
   { id: 1, title: "Receta 1", description: "Receta fácil de ensalada", imageUrl: "/recipe1.jpg" },

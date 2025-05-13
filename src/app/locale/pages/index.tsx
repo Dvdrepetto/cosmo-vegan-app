@@ -1,6 +1,6 @@
 // pages/home/index.tsx
 import Link from "next/link";
-import { Navbar } from "../components/Navbar";
+import { Navbar } from "../locale/context/components/Navbar";
 
 const Home = () => {
     return (
